@@ -67,6 +67,6 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 ---
 
 <div align="center">
-  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Flight Manual &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
