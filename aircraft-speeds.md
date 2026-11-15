@@ -57,5 +57,6 @@ This reference table lists approximate takeoff, cruise, and final approach speed
 ---
 
 <div align="center">
-  <a href="README.md">&larr; Back to Table of Contents</a>
+  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>Not officially affiliated with GeoFS.</sub>
 </div>
