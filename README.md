@@ -12,10 +12,9 @@ This repository is a structured reference manual and field guide for GeoFS. It b
 # How to Use This Manual
 
 Click on any of the sections above to open that specific guide. *If you notice outdated aircraft speeds, missing shortcuts, or have a tip you'd like to add, feel free to open an issue in this repository.*
-
 ---
 
 <div align="center">
-  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Flight Manual &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
