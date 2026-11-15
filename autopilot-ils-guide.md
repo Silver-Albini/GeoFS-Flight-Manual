@@ -1,4 +1,4 @@
-### **Autopilot & ILS Landing Guide**
+# **Autopilot & ILS Landing Guide**
 
 The built-in Autopilot in GeoFS allows you to hold altitude, speed, heading, and execute automated Instrument Landing System (ILS) approaches on equipped runways.
 
@@ -16,7 +16,7 @@ You can open the Autopilot panel from the bottom interface bar or toggle it with
 
 ---
 
-# 2. Basic Cruise Setup
+### 2. Basic Cruise Setup
 
 1. Take off manually and climb to at least **1,000 ft** above ground level.
 2. Retract your landing gear (`G`) and flaps (`[`).
@@ -27,7 +27,7 @@ You can open the Autopilot panel from the bottom interface bar or toggle it with
 
 ---
 
-# 3. Step-by-Step ILS Landing
+### 3. Step-by-Step ILS Landing
 
 An ILS approach guides your aircraft automatically down to the runway threshold, both horizontally (localizer) and vertically (glideslope).
 
@@ -43,7 +43,7 @@ An ILS approach guides your aircraft automatically down to the runway threshold,
 
 ---
 
-# Troubleshooting Common ILS Issues
+### Troubleshooting Common ILS Issues
 
 * **Aircraft flies past the runway without descending:** You approached the runway too high or too fast, missing the glideslope beam from above. Always capture the glideslope from *below* (around 2,500–3,000 ft AGL).
 * **Aircraft oscillates left and right aggressively:** Your airspeed is too high for the final turn, or time compression is active. Keep simulation speed at `1x` during approaches.
