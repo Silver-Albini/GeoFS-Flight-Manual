@@ -32,10 +32,9 @@ GeoFS requires your dedicated GPU (or integrated graphics hardware) rather than 
 
 * **Limit Heavy Scripts:** Running multiple weather, traffic, or custom terrain scripts simultaneously increases CPU usage. Disable any Tampermonkey scripts you aren't actively using for that flight.
 * **GeoFS Pro (HD) Impact:** Higher-resolution satellite tiles require more bandwidth and video memory. If terrain tiles load slowly or cause stutters, temporarily disable HD terrain forcing over slow connections.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Flight Manual &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
