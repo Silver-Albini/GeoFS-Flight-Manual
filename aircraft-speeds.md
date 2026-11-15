@@ -53,10 +53,9 @@ This reference table lists approximate takeoff, cruise, and final approach speed
 
 * **Flap Extension:** Never extend full flaps above **180–200 kts** on airliners, or **90–100 kts** on light propeller aircraft.
 * **Flare Speed:** Cut throttle to idle at roughly **30–50 ft** above the runway and gently pitch up by 2° to 4° to bleed off speed smoothly before touchdown.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Flight Manual &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
