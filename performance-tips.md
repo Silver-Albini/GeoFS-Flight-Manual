@@ -4,7 +4,7 @@ Because GeoFS runs entirely in your web browser using WebGL and Cesium 3D terrai
 
 ---
 
-# 1. In-Game Graphics Settings
+### 1. In-Game Graphics Settings
 
 Open the **Options** menu on the bottom bar in GeoFS and adjust the following settings:
 
@@ -16,7 +16,7 @@ Open the **Options** menu on the bottom bar in GeoFS and adjust the following se
 
 ---
 
-# 2. Browser & Hardware Acceleration
+### 2. Browser & Hardware Acceleration
 
 GeoFS requires your dedicated GPU (or integrated graphics hardware) rather than software rendering.
 
@@ -28,7 +28,7 @@ GeoFS requires your dedicated GPU (or integrated graphics hardware) rather than 
 
 ---
 
-# 3. Add-on & Script Optimization
+### 3. Add-on & Script Optimization
 
 * **Limit Heavy Scripts:** Running multiple weather, traffic, or custom terrain scripts simultaneously increases CPU usage. Disable any Tampermonkey scripts you aren't actively using for that flight.
 * **GeoFS Pro (HD) Impact:** Higher-resolution satellite tiles require more bandwidth and video memory. If terrain tiles load slowly or cause stutters, temporarily disable HD terrain forcing over slow connections.
