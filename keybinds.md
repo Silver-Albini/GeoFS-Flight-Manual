@@ -4,7 +4,7 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 
 ---
 
-# Primary Flight Controls
+### Primary Flight Controls
 
 | Key | Action |
 | :--- | :--- |
@@ -16,7 +16,7 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 
 ---
 
-# Engine & Throttle
+### Engine & Throttle
 
 | Key | Action |
 | :--- | :--- |
@@ -30,7 +30,7 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 
 ---
 
-# Flaps, Gear & Systems
+### Flaps, Gear & Systems
 
 | Key | Action |
 | :--- | :--- |
@@ -43,7 +43,7 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 
 ---
 
-# Camera & Views
+### Camera & Views
 
 | Key | Action |
 | :--- | :--- |
@@ -54,7 +54,7 @@ This guide covers the default keyboard controls in GeoFS. Note that some keys ma
 
 ---
 
-# Interface & Navigation
+### Interface & Navigation
 
 | Key | Action |
 | :--- | :--- |
