@@ -47,10 +47,9 @@ An ILS approach guides your aircraft automatically down to the runway threshold,
 
 * **Aircraft flies past the runway without descending:** You approached the runway too high or too fast, missing the glideslope beam from above. Always capture the glideslope from *below* (around 2,500–3,000 ft AGL).
 * **Aircraft oscillates left and right aggressively:** Your airspeed is too high for the final turn, or time compression is active. Keep simulation speed at `1x` during approaches.
-
 ---
 
 <div align="center">
-  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Flight Manual &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not officially affiliated with GeoFS.</sub>
 </div>
