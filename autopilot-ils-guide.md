@@ -51,5 +51,6 @@ An ILS approach guides your aircraft automatically down to the runway threshold,
 ---
 
 <div align="center">
-  <a href="README.md">&larr; Back to Table of Contents</a>
+  <sub>GeoFS Flight Manual &bull; Maintained by Silver-Albini</sub><br>
+  <sub>Not officially affiliated with GeoFS.</sub>
 </div>
